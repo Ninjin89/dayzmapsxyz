@@ -19,20 +19,14 @@ Most Dayz XyZ files
 
 ---
 
-## Large and Custom Maps
+## Small Maps
 
-| Map Name        | Size (meters) |
-|------------------|---------------|
-| deerisle         | 16384         |
-| rostow           | 14336         |
-| pripyat          | 20480         |
-| yiprit           | 20480         |
-| melkart          | 20480         |
-| thezone          | 20480         |
-| capare           | 20480         |
-| nhchernobyl      | 20480         |
-| vis_island       | 20480         |
-| fogfall          | 20480         |
+| Map Name     | Size (meters) |
+|---------------|---------------|
+| iztek         | 8192          |
+| alteria       | 8192          |
+| hashima       | 5120          |
+| swansisland   | 2048          |
 
 ---
 
@@ -52,25 +46,22 @@ Most Dayz XyZ files
 
 ---
 
-## Small Maps
+## Large and Custom Maps
 
-| Map Name     | Size (meters) |
-|---------------|---------------|
-| iztek         | 8192          |
-| alteria       | 8192          |
-| hashima       | 5120          |
-| swansisland   | 2048          |
-
----
-
-## Other Maps
-
-| Map Name     | Size (meters) |
-|---------------|---------------|
+| Map Name        | Size (meters) |
+|------------------|---------------|
+| deerisle         | 16384         |
+| rostow           | 14336         |
+| pripyat          | 20480         |
+| yiprit           | 20480         |
+| melkart          | 20480         |
+| thezone          | 20480         |
+| capare           | 20480         |
+| nhchernobyl      | 20480         |
+| vis_island       | 20480         |
+| fogfall          | 20480         |
 | NukeZZonE     | 15360         |
 | lux           | 15360         |
 | sakhal        | 15360         |
 | arsteinen     | 15360         |
 | raman         | 32768         |
-
----
