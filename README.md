@@ -63,7 +63,7 @@ Most Dayz XyZ files
 
 ---
 
-## Other or Unique Maps
+## Other Maps
 
 | Map Name     | Size (meters) |
 |---------------|---------------|
